@@ -7,7 +7,18 @@
 
 <br><br>
 
-<h5 align="left">💡 I enjoy exploring new technologies and developing software solutions that automate processes.<br><br>🌱 I'm currently learning more about continuous deployment, AI model training, and microservices architecture.<br><br>✍️ In my free time, I develop web systems, automate daily processes, work on my portfolio, and learn new technologies.<br><br>💥In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.<br><br>✉️ You can email me at teodorocondor03@gmail.com! I'll try to reply as soon as possible.</h5>
+<h5 align="left">
+💡 I enjoy exploring new technologies and developing software solutions that automate processes.<br><br>
+
+🌱 I'm currently learning more about continuous deployment, AI model training, and microservices architecture.<br><br>
+
+✍️ In my free time, I develop web systems, automate daily processes, work on my portfolio, and learn new technologies.<br><br>
+
+💥 In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.<br><br>
+
+✉️ You can email me at teodorocondor03@gmail.com! I'll try to reply as soon as possible.
+</h5>
+
 
 ###
 
