@@ -1,26 +1,49 @@
 <h1 align="center">Hi , I'm Cristofer Condor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
- <img
+<div align="center">
+  <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Automation+%7C+Microservices+%7C+CI%2FCD;AI+Model+Training+%7C+Clean+Architecture"
     alt="typing"
   />
-###
+</div>
+
+
 <br><br>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <br><br>
 
-<h5 align="left">
-💡 I enjoy exploring new technologies and developing software solutions that automate processes.<br><br>
-
-🌱 I'm currently learning more about continuous deployment, AI model training, and microservices architecture.<br><br>
-
-✍️ In my free time, I develop web systems, automate daily processes, work on my portfolio, and learn new technologies.<br><br>
-
-💥 In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.<br><br>
-
-✉️ You can email me at teodorocondor03@gmail.com! I'll try to reply as soon as possible.
-</h5>
+<table width="100%" style="max-width: 1000px;">
+  <tr>
+    <!-- TEXTO -->
+    <td width="60%" valign="top">
+      <div style="
+        font-family: 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        line-height: 1.7;
+        color: #e5e7eb;
+      ">
+        💡 I enjoy exploring new technologies and developing software solutions that automate processes.
+        <br><br>
+        🌱 I'm currently learning more about continuous deployment, AI model training, and microservices architecture.
+        <br><br>
+        ✍️ In my free time, I develop web systems, automate daily processes, work on my portfolio, and learn new technologies.
+        <br><br>
+        💥 In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+        <br><br>
+        ✉️ You can email me at
+        <a href="mailto:teodorocondor03@gmail.com">teodorocondor03@gmail.com</a>.
+      </div>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh0OXZ3emJzbHB2aWNsZThiaTQ1M3ozNjhseGNvNnlqMTl4dHExZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"
+        height="320"
+        alt="coding gif"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ###
@@ -30,7 +53,6 @@
 
 ###
 
-<img align="right" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh0OXZ3emJzbHB2aWNsZThiaTQ1M3ozNjhseGNvNnlqMTl4dHExZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"  />
 
 ###
 <br><br>
