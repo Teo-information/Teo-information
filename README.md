@@ -7,7 +7,7 @@
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<img width="40%" align="right" alt="Github" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh0OXZ3emJzbHB2aWNsZThiaTQ1M3ozNjhseGNvNnlqMTl4dHExZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif"/>
+<img width="42%" align="right" alt="Github" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif"/>
 
 - 🔭 I enjoy exploring new technologies and developing software solutions that automate processes.
 
@@ -97,6 +97,21 @@
     />
   </a>
 </div>
+
+<h2> Git Analysis <img src='https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif' width="35px"> </h2>
+
+<p align="center">
+  <a href="https://github.com/Teo-information">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=Teo-information&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Teo-information&layout=compact&langs_count=8&theme=algolia"
+    />
+  </a>
+</p>
 
 
 ## 🐍 A Snake Eating my Contributions Graph
